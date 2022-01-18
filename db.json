@@ -1,4 +1,5 @@
-[
+{
+  "users": [
   {
   "name": "Franks Sañay",
   "email": "fsanays@est.ups.edu.ec",
@@ -22,10 +23,12 @@
   "email": "frankssanay@gmail.com",
   "phone": 0993666232,
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkS2ZHy4uLhB4pO_EBNvnwdZW-Hptu4S5Dw&usqp=CAU"
-  },{
+  },
+  {
   "name": "Luis Sañay",
   "email": "fsanays@est.ups.edu.ec",
   "phone": 0993666209,
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkS2ZHy4uLhB4pO_EBNvnwdZW-Hptu4S5Dw&usqp=CAU"
   }
 ]
+}
